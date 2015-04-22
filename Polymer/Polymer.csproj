@@ -282,6 +282,7 @@
     <Content Include="components\webcomponentsjs\webcomponents-lite.min.js" />
     <Content Include="components\webcomponentsjs\webcomponents.js" />
     <Content Include="components\webcomponentsjs\webcomponents.min.js" />
+    <Content Include="css\style.css" />
     <Content Include="images\avatar-01.svg" />
     <Content Include="images\avatar-02.svg" />
     <Content Include="images\avatar-03.svg" />
