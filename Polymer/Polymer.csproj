@@ -133,6 +133,7 @@
     <Content Include="css\indexBulls.css" />
     <Content Include="css\indexCavs.css" />
     <Content Include="css\indexHawks.css" />
+    <Content Include="css\indexMavs.css" />
     <Content Include="css\indexRaps.css" />
     <Content Include="post-service\api\posts.json" />
     <None Include="Web.Debug.config">

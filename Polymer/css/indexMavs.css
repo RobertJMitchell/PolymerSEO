@@ -10,21 +10,21 @@
     -webkit-overflow-scrolling: touch; 
   }
   core-toolbar {
-    background: #512da8;
+    background: #0B60ad;
     color: white;
   }
-  paper-ripple#ink {
+  #ink {
       position:absolute;
       top:0;
       right:0;
       bottom:0;
       left:0;
-      color:#212121;
+      color:#ffffff;
   }
   
   #tabs > paper-tab.core-selected{
-      background-color:#d32f2f;
-      color:#212121;
+      background-color:#a9a9a9;
+      color:#0B60AD;
   }
 
   #tabs {
