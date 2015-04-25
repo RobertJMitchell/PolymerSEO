@@ -130,6 +130,8 @@
     <Content Include="components\webcomponentsjs\build.log" />
     <Content Include="components\webcomponentsjs\package.json" />
     <Content Include="components\webcomponentsjs\README.md" />
+    <Content Include="css\indexCavs.css" />
+    <Content Include="post-service\api\posts.json" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -302,6 +304,8 @@
     <Content Include="images\avatar-16.svg" />
     <Content Include="index.html" />
     <Content Include="post-card.html" />
+    <Content Include="post-list.html" />
+    <Content Include="post-service\post-service.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
