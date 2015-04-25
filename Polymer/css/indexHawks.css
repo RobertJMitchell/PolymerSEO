@@ -11,20 +11,13 @@
     -webkit-overflow-scrolling: touch; 
   }
   core-toolbar {
-    background: #303f9f;
-    border-top-color:yellow;
+    background: #d32f2f;
     color: white;
   }
   
   #tabs > paper-tab.core-selected{
-      background-color:#d32f2f;
-      color:yellow;
-      border-top-color: yellow;
-      
-  }
-  #tabs > paper-tab{
-      border-color:#303f9f;
-      border-top-style:solid;
+      background-color:#ffffff;
+      color:red;
   }
 
   #tabs {

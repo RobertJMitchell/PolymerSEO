@@ -130,7 +130,10 @@
     <Content Include="components\webcomponentsjs\build.log" />
     <Content Include="components\webcomponentsjs\package.json" />
     <Content Include="components\webcomponentsjs\README.md" />
+    <Content Include="css\indexBulls.css" />
     <Content Include="css\indexCavs.css" />
+    <Content Include="css\indexHawks.css" />
+    <Content Include="css\indexRaps.css" />
     <Content Include="post-service\api\posts.json" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
